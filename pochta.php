@@ -6,7 +6,7 @@
  <div class="container">
    <div class="row ">
      <div class="col-md-12">
-       <h3 class="text-centr">Обратная</h3>
+       <h3 class="text-centr">Обратная связь</h3>
        <div class="col-md-10">
          <form action="https://formspree.io/AndrienkoN@i.ua" method="post">
           <div class="form-droup">
